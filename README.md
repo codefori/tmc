@@ -1,8 +1,10 @@
 # Technical Meeting Community
 
-Technical Meeting Community for Code for IBM i. We meet at least once a month for open Q&A and demos done by developers, or by folks showing off something they have worked on.
+Technical Meeting Community (TMC) for Code for IBM i. We meet at least once a month for open Q&A and demos done by developers, or by folks showing off something they have worked on.
 
 ### What is the meeting about?
+
+Seiden Group has typicalled called the meeting **Code for IBM i Fridays**, that name will remain and we will use that meeting as part of the TMC.
 
 The meeting is a place for people to ask questions. No matter if you're a new or experienced user of Code for IBM i (or any of the extensions defined in the scope), this a chance to you to connect with other users, as well as the maintainers of the extension. We also welcome people to show off new tools they have learned and are also welcome to show things they're working on. The meetings are recorded and meeting summaries will be shared in this repository in the meetings folder.
 
